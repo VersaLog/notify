@@ -1,0 +1,5 @@
+VersaLog
+discord
+line-bot-sdk
+python-dotenv
+Flask
