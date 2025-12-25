@@ -6,6 +6,7 @@ Set it up once — and the weather comes to your messenger by itself.
 
 ## 📁 Project structure
 
+```plaintext
 notify/
 ├── discord/
 │   ├── .env
@@ -23,6 +24,7 @@ notify/
 ├── LICENSE
 ├── README.md
 └── requirements.txt
+```
 
 ## 🚀 Quick Start Guide
 
