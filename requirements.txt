@@ -1,5 +1,6 @@
 VersaLog
 discord
+tweepy
 line-bot-sdk
 python-dotenv
 Flask

@@ -20,6 +20,11 @@ notify/
 │   ├── .env
 │   ├── api_req.py
 │   └── notify.py
+├── twitter(X)/
+│   ├── .env
+│   ├── eew.py
+│   └── notify.py
+│   └── post_send.py
 ├── .gitignore
 ├── LICENSE
 ├── README.md
